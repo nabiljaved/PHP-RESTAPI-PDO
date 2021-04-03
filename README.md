@@ -11,7 +11,7 @@ Import the myblog.sql file, change the params in the config/Database.php file to
 ### Author
 
 Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Nabeel Javed](http://www.nabeelprofile.com)
 
 ### Version
 
